@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Recipe Collection</string>
+
+
+    <string-array name="titles">
+        <item>INDIAN</item>
+        <item>CHINESE</item>
+        <item>AMERICAN</item>
+        <item>THAI</item>
+    </string-array>
+    <string-array name="description">
+        <item>Indian Recipes</item>
+        <item>Chinese Recipes</item>
+        <item>American Recipes</item>
+        <item>Thai Recipes</item>
+    </string-array>
+    <string-array name="title">
+        <item>KADAI PANEER</item>
+        <item>CHICKEN TIKKA KEBAB</item>
+
+    </string-array>
+    <string-array name="title1">
+        <item>MONGOLIAN CHICKEN</item>
+        <item>VEG HAKKA NOODLES</item>
+    </string-array>
+    <string-array name="title2">
+        <item>CLASSIC POTATO SALAD</item>
+        <item>CHESSY CHILI MAC</item>
+    </string-array>
+    <string-array name="title3">
+        <item>THAI GRILLED CHICKEN</item>
+        <item>THAI GREEN PAPAYA SALAD
+        </item>
+    </string-array>
+
+</resources>
